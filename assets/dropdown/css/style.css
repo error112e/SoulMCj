@@ -262,26 +262,4 @@
 .is-builder .nav-dropdown.collapsing {
   transition: none !important; }
 
-/* width */
-::-webkit-scrollbar {
-  width: 9px;
-}
 
-/* Track */
-::-webkit-scrollbar-track {
-  background: #ffffff;
-  border-radius: 50px;
-  width: 2px;
-}
-
-/* Handle */
-::-webkit-scrollbar-thumb {
-  background: #000000;
-  border-radius: 50px;
-  width: 2px;
-}
-
-/* Handle on hover */
-::-webkit-scrollbar-thumb:hover {
-  background: #15214D;
-}
